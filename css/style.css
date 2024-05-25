@@ -1,0 +1,20 @@
+
+/* debug */
+[class*="col-"]{
+    /* background-color: rgb(18, 216, 45);
+    min-height: 30px; */
+        
+}
+
+/* regole generali */
+
+body{
+    color: white;
+}
+
+.navbar-brand{ 
+    text-transform: uppercase;
+
+}
+
+
