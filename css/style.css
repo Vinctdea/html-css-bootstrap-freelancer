@@ -37,3 +37,8 @@ header .navbar-brand, .navbar-nav{
 .ms_bggreen{
     background-color: green;
 }
+
+/* regole footer */
+footer{
+    background-color: rgb(34, 32, 32);
+}
