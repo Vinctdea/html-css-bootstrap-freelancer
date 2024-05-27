@@ -12,9 +12,15 @@ body{
     color: white;
 }
 
+
+/* regole header */
+
+header{
+    background-color: rgb(158, 16, 16);
+}
+
 .navbar-brand{ 
     text-transform: uppercase;
-
 }
 
 
